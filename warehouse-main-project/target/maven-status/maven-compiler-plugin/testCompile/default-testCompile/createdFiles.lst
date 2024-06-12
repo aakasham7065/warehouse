@@ -1,0 +1,4 @@
+com\ikea\nl\warehouse\services\InventoryServiceTest.class
+com\ikea\nl\warehouse\WarehouseApplicationTest.class
+com\ikea\nl\warehouse\util\InventoryLoaderTest.class
+com\ikea\nl\warehouse\services\ProductServiceTest.class

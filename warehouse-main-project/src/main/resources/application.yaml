@@ -1,0 +1,9 @@
+warehouse:
+  products:
+    file: products.json
+  inventory:
+    file: inventory.json
+security:
+  jwt:
+     secret: "aakashProject"
+
